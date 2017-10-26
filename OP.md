@@ -75,6 +75,8 @@ However, this also makes them slower.
 
 A really cool language that can do pretty much everything you can think of, and quickly. A really good language for machine learning and writing quick scripts - it's a great place to start learning.
 
+ - [Learn Python the Hard Way](https://learnpythonthehardway.org/) is a good starting resource.
+
 ## Rust
 
 Rust is a low level language like C, but designed to not have a lot of the problems C in terms of legacy design and lack of safety. The primary goal of Rust is to be safe, by making sure the programmer doesn't have raw access to memory.
