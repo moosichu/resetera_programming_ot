@@ -71,11 +71,17 @@ These two languages have been lumped together as they are very similar. They are
 
 However, this also makes them slower.
 
+## Haskell
+
+Haskell is *the* functional language that Computer Scientists like to rave about. It takes the functional programming paradigm and *owns* it.
+
+- Good things have been said by [Learn You a Haskell](http://learnyouahaskell.com/)
+
 ## Python
 
 A really cool language that can do pretty much everything you can think of, and quickly. A really good language for machine learning and writing quick scripts - it's a great place to start learning.
 
- - [Learn Python the Hard Way](https://learnpythonthehardway.org/) is a good starting resource.
+ - [python-course.eu](https://www.python-course.eu/) is a good starting resource.
 
 ## Rust
 
@@ -100,6 +106,12 @@ Any recommendations  would be really appreciated!
 There is a [GitHub Repo](https://github.com/moosichu/resetera_programming_ot) which contains this OP, please feel free to make any pull requests containing improvements to this!
 
 Also feel free to create any [issues](https://github.com/moosichu/resetera_programming_ot/issues) for things you would like to see added to the OP!
+
+# Special Thanks
+
+To:
+
+- phisheep for the Haskell and Python learning resources!
 
 # Note
 
