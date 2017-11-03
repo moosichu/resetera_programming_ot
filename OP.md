@@ -63,6 +63,8 @@ Unfortunately, it suffers from a lot of the same problems that C does, design wi
 
 Oh, and most game engines are written in C++.
 
+- [LearnCpp.com](http://www.learncpp.com/)
+
 ## JavaScript
 
 Originally written in 10 days as a 'glue' language that would be used to connect 'serious' languages (like Java, and Flash) together, JavaScript has since become the back-bone of a lot of the internet (in NodeJS), and the front-bone of even more!
