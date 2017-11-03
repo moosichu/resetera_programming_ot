@@ -131,6 +131,10 @@ Any recommendations  would be really appreciated!
 
 - [Game Engine Architecture](http://gameenginebook.com/) by Jason Gregory, is a great book about how game engines work.
 
+- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) as recommended by [Wollan](https://www.resetera.com/threads/programming-ot-functional-imperative-oop-cargo-cult-all-are-welcome.1335/#post-75972)
+
+- [Learn X in Y Minutes](https://learnxinyminutes.com/), as useful resource for experienced programmers that want to learn about a new language. Recommended by [Code Artisan](https://www.resetera.com/threads/programming-ot-functional-imperative-oop-cargo-cult-all-are-welcome.1335/page-2#post-413998)
+
 # Improving this post
 
 There is a [GitHub Repo](https://github.com/moosichu/resetera_programming_ot) which contains this OP, please feel free to make any pull requests containing improvements to this!
