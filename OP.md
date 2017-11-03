@@ -97,6 +97,26 @@ Rust is a low level language like C, but designed to not have a lot of the probl
 
 Apple had a go at making a language for people to use when writing for their machines after they got bored of Objective-C. This is what they came up with.
 
+# Development Environments (IDE)
+
+An IDE (Short for "Integrated Development Environment") are tools that can be used to help you program. Beyond providing the basic text-editing features you need to edit source code, they can provide other tools to help you auto-complete, debug, inspect and otherwise play around with your code in manners which (ideally) improve your productivity.
+
+## [Visual Studio](https://www.visualstudio.com/)
+
+Use this to program in .NET, C, C++, F#, and so on. A powerful IDE, that can get a bit overwhelming at times. Let us take a moment to mourn the loss of project.json †
+
+## [Rider](https://www.jetbrains.com/rider/)
+
+A newcomer in the .NET sphere. Haven't tried this yet, but it's made by Jetbrains, who's other IDE IntelliJ IDEA, is one of the best Java IDE's. If anyone has tried it or is using it, be sure to post about it!
+
+## [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/)
+
+These are 'IDEs' that are based on extension. Starts out as a text editor with highlighting and some basic development features, but can be extended with plugins that enable you to program for all your favorite languages.
+
+## [Sublime Text](http://www.sublimetext.com/)
+
+Along the lines of VS Code and Atom, but even more basic. Don't think you can debug in here, but I just wanted to add it because it's just so fast, snappy, and extensible, making it perfect for scripting.
+
 # Further Resources
 
 This needs to be fleshed out, as I don't know what is good and what isn't!
