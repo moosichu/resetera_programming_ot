@@ -147,6 +147,8 @@ To:
 
 - phisheep for the Haskell and Python learning resources!
 
+- emesve for the IDE section!
+
 # Note
 
 I will try to listen to any feedback to this OT, and add anything you feel is worthwhile! Especially with resources for learning programming languages, I really don't know what the best ones are!
