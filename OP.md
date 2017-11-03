@@ -83,6 +83,10 @@ Haskell is *the* functional language that Computer Scientists like to rave about
 
 - Good things have been said by [Learn You a Haskell](http://learnyouahaskell.com/)
 
+## PHP
+
+This is a language that powers a lot of the web (including ResetEra!). It isn't going away anytime soon, but it has fallen by the wayside in favour of languages such as JavaScript.
+
 ## Python
 
 A really cool language that can do pretty much everything you can think of, and quickly. A really good language for machine learning and writing quick scripts - it's a great place to start learning.
